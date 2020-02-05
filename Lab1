@@ -1,1 +1,23 @@
+Justin Zamecnik
+Lab Report 1
+
+Objectives:
+Design a network to be designed for four separate companies that vary in size by creating a network diagram, summary sheet, and a routing table. 
+
+Equipment List:
+The only equipment used for this lab was a pen, some paper, and a binary calculator.
+
+Notes and Observations:
+We stuck to a very basic plan for the network disbursement. We made sure each company had plenty of room to grow, and we managed to only use half of the original four subnets. We took a simple approach by adding another two bits each time to the mask in order to allow for company growth and simplicity on our side of things. We found out that our assignments for the companies just so happened to be aligned in a way in which they could be grouped if a company happened to grow too much.
+
+Diagrams, flowcharts, and figures: 
+ 
+References:
+No references were used in this lab.
+
+Questions:
+There were no questions on the lab handout, only instructions to design a network.
+
+Conclusion and Reflection:
+Overall, the lab went smoothly. We made some mistakes along the way, but for the first lab of the semester it went well. Looking back at the network design, there are ways that it should be changed. We could have assigned smaller subnets to the companies and used more of a grouping method. A method where if the company did grow we could simply use the subnet next to their current one as an addition.
 
