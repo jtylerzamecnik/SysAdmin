@@ -10,3 +10,5 @@
 </h3>
 <h3> <a href="https://github.com/jtylerzamecnik/SysAdmin/tree/master/Lab%205"> Lab Report 5 </a>
 </h3>
+<h3> <a href="https://github.com/jtylerzamecnik/SysAdmin/tree/master/Lab%206"> Lab Report 6 </a>
+</h3>
